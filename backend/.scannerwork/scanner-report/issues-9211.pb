@@ -1,0 +1,3 @@
+–
+pythonS117bRename this local variable "SetFileAttributes" to match the regular expression ^[_a-z][a-z0-9_]*$. 2 b
+MAINTAINABILITYLOW

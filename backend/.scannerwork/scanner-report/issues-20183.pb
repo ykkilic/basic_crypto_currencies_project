@@ -1,0 +1,6 @@
+‰
+pythonS116SRename this field "pivotButton" to match the regular expression ^[_a-z][_a-z0-9]*$. 2
+€€ b
+MAINTAINABILITYLOW‡
+pythonS116SRename this field "quotePrefix" to match the regular expression ^[_a-z][_a-z0-9]*$. 2 b
+MAINTAINABILITYLOW

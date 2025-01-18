@@ -1,0 +1,13 @@
+á
+pythonS1066/Merge this if statement with the enclosing one. 2
+¯¯ :
+è^
+˜˜ 
+	enclosingb
+MAINTAINABILITYMEDIUMá
+pythonS1066/Merge this if statement with the enclosing one. 2
+ïï 
+:
+è^
+îî 	enclosingb
+MAINTAINABILITYMEDIUM

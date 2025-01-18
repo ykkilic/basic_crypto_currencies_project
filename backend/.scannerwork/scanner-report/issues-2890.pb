@@ -1,0 +1,4 @@
+™
+pythonS1542_Rename function "test_equals_None_vs_float" to match the regular expression ^[a-z_][a-z0-9_]*$. 2
+…… b
+MAINTAINABILITYMEDIUM
